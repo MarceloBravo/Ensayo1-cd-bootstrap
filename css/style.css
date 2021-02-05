@@ -1,0 +1,9 @@
+.jumbotron{
+    background: #e0e0e0;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.jumbotron h1{
+    font-weight: initial;
+}
